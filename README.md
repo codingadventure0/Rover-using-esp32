@@ -1,5 +1,7 @@
 # Mars Rover Project
 
+[Mars-Rover-Document_.pdf](https://github.com/codingadventure0/Rover-using-esp32/files/15357546/Mars-Rover-Document_.pdf)
+
 ## Abstract
 
 The Mars Rover Project represents a pioneering effort aimed at designing and developing a robotic rover capable of traversing the challenging terrain of Mars while conducting sophisticated scientific experiments and observations. This multidisciplinary project integrates mechanical engineering, electronics, software development, and robotics, with the rover equipped with a suite of scientific instruments to investigate key aspects of Mars' geology, atmosphere, and potential habitability.
