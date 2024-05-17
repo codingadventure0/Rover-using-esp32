@@ -80,7 +80,7 @@ Future enhancements include:
 
 ## Planetarium Showcasing
 
-This Mars Rover model is specifically designed for planetarium showcasing. It serves as an educational and interactive exhibit to demonstrate the principles of Mars exploration, robotics, and engineering to the public. The model aims to inspire interest and curiosity about space exploration and science.
+This Mars Rover model was specifically designed for showcasing in Patna Planetarium (Bihar). It serves as an educational and interactive exhibit to demonstrate the principles of Mars exploration, robotics, and engineering to the public. The model aims to inspire interest and curiosity about space exploration and science.
 
 ## Getting Started
 
