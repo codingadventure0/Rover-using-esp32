@@ -93,7 +93,7 @@ This Mars Rover model was specifically designed for showcasing in Patna Planetar
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mars-rover.git
+    git clone https://github.com/codingadventure0/Rover-using-esp32.git
     cd mars-rover
     ```
 
